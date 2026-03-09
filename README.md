@@ -4,7 +4,7 @@
 
 * Tambien soy Ingeniero en Sistemas Computacionales egresado de la UVEG y estudiante de Licenciatura en Pedagogía. Estoy adentrandome en el mundo de la programación con Python, aunque tengo nociones básicas de Java, JavaScript y Kotlin.
 
-* Actualmente me encuentro realizando actividades como QA Tester dentro del area médica, aunque estoy participando en un pequeño proyecto de desarrollo movil con React. 
+* Actualmente me encuentro realizando actividades como QA Tester dentro del area médica. 
 
 
 
