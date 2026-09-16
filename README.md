@@ -4,7 +4,7 @@
 
 * Tambien soy Ingeniero en Sistemas Computacionales egresado de la UVEG y estudiante de Licenciatura en Pedagogía. Estoy adentrandome en el mundo de la programación con Python, aunque tengo nociones básicas de Java, JavaScript y Kotlin.
 
-* Actualmente me encuentro realizando actividades como QA Tester dentro del area médica.
+* Actualmente me encuentro realizando actividades como QA Tester Lead dentro del area médica.
 
 * Iniciando como Desarrollador y Co-Fundador en @Axioma Software desarrollando sistemas y aplicaciones a medida del cliente.
 
